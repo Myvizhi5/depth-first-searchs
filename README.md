@@ -120,7 +120,7 @@ print(traversed_path)
 ```
 
 ## Output:
-<img width="1029" height="451" alt="image" src="https://github.com/user-attachments/assets/66ca65e8-e5f7-43c9-9da2-50e54cf5df87" />
+<img width="1029" height="300" alt="image" src="https://github.com/user-attachments/assets/beb52c80-dfd1-438f-82ec-1cabdd3aa39c" />
 
 <hr>
 <h3>Result:</h3>
